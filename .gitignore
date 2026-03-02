@@ -2,3 +2,9 @@
 danger-minimax-claude-code.bat
 minimax-claude-code.bat
 minimax-claude-code常用指令.md
+
+# Claude Code settings
+.claude/
+
+# Resume source data
+resume_创业版_2026.json
